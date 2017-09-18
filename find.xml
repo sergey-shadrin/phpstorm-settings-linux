@@ -1,0 +1,47 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.н</mask>
+      <mask>*.u</mask>
+      <mask>*.ynm</mask>
+      <mask>*.yn</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.hp</mask>
+      <mask>*.h</mask>
+      <mask>*.г</mask>
+      <mask>*</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.jy</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+    </recentFileMasks>
+  </component>
+</application>

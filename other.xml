@@ -1,0 +1,31 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/projects/code_style/ispring.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.10.3" last-modified="1493730544000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://youtrack.cpslabs.net">
+      <commitMessageFormat>#{id}</commitMessageFormat>
+      <option name="defaultSearch" value="#{4. My Unresolved Sprint Tasks}" />
+      <password>dfe5dffbdfdfdf9edfcfdfc3dfe6dfcf</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>sergey.shadrin</username>
+    </YouTrack>
+  </component>
+</application>

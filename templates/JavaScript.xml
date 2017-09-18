@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="basejs" value="/**&#10; * @class&#10; * @extends {$BASE_CLASS_NAME$}&#10; */&#10;var $CLASS_NAME$ = $BASE_CLASS_NAME$.extend({&#10;    $END$&#10;});" description="Inserts class that extends Base.js or other class that extends Base.js" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="BASE_CLASS_NAME" expression="" defaultValue="&quot;Base&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

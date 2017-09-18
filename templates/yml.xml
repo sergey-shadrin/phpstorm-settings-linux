@@ -1,0 +1,20 @@
+<templateSet group="yml">
+  <template name="dpnd" value="$DEPENDENCY_NAME$:&#10;  path: $DEPENDENCY_PATH$&#10;  depend:&#10;    - $END$" description="Insert dependency declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="DEPENDENCY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEPENDENCY_PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

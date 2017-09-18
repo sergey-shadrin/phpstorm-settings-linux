@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="istask" value="class $VAR1$Task extends isoAccountTask&#10;{&#10;    protected function configure()&#10;    {&#10;        parent::configure();&#10;&#10;        $this-&gt;addOptions(&#10;            array(&#10;                 new sfCommandOption('application', null, sfCommandOption::PARAMETER_REQUIRED, 'The application name', 'frontend'),&#10;                 new sfCommandOption('env', null, sfCommandOption::PARAMETER_REQUIRED, 'The environment', 'local'),&#10;                 new sfCommandOption('connection', null, sfCommandOption::PARAMETER_REQUIRED, 'The connection name', 'propel_main'),&#10;            )&#10;        );&#10;&#10;        $this-&gt;namespace = '$VAR2$';&#10;        $this-&gt;name      = '$VAR3$';&#10;    }&#10;&#10;    protected function processAccount(Account $account)&#10;    {&#10;        $VAR4$&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
