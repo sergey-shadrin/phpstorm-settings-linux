@@ -15,6 +15,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.н</mask>
       <mask>*.u</mask>
@@ -24,8 +25,6 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.оы</mask>
-      <mask>*.о</mask>
       <mask>*.hp</mask>
       <mask>*.h</mask>
       <mask>*.г</mask>
@@ -42,10 +41,12 @@
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
