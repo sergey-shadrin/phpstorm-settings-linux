@@ -39,13 +39,13 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.php, *.s</mask>
+      <mask>*.php, *.sq</mask>
       <mask>*.php</mask>
       <mask>*.php,</mask>
       <mask>*.php,</mask>
       <mask>*.php, *</mask>
       <mask>*.php, *.</mask>
-      <mask>*.php, *.s</mask>
-      <mask>*.php, *.sq</mask>
       <mask>*.php, *.sql</mask>
     </recentFileMasks>
   </component>
