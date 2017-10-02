@@ -7,11 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php, *.sql" />
     <recentFileMasks>
-      <mask>*.twig</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
-      <mask>*.г</mask>
       <mask>*</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
@@ -30,13 +27,17 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.php, *.s</mask>
-      <mask>*.php, *.sq</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,</mask>
       <mask>*.php</mask>
       <mask>*.php,</mask>
-      <mask>*.php,</mask>
       <mask>*.php, *</mask>
+      <mask>*.php, *.SQL</mask>
+      <mask>*.php, *.SQ</mask>
+      <mask>*.php, *.S</mask>
       <mask>*.php, *.</mask>
+      <mask>*.php, *.s</mask>
+      <mask>*.php, *.sq</mask>
       <mask>*.php, *.sql</mask>
     </recentFileMasks>
   </component>
