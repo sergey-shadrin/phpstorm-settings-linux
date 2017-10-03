@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.ph</mask>
@@ -15,9 +15,6 @@
       <mask>*.jy</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
       <mask>*.js</mask>
@@ -39,6 +36,9 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
