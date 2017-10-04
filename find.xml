@@ -11,6 +11,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.ph</mask>
@@ -35,13 +36,13 @@
       <mask>*.php, *.s</mask>
       <mask>*.php, *.sq</mask>
       <mask>*.php, *.sql</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*.y</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
