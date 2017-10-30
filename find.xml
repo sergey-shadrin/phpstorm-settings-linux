@@ -29,7 +29,6 @@
       <mask>*.php, *.sql</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -42,6 +41,7 @@
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
