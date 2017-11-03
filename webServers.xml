@@ -1,8 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e59b24d0-3c01-4700-82cf-6792fd1d712d" name="shadrin-learn.ispring.lan" url="http://shadrin-learn.ispring.lan">
-        <fileTransfer port="0" mountedRoot="C:\test" accessType="MOUNT" />
+      <webServer id="3106be71-2cdd-4d74-a55b-c93785d29591" name="shadrin-learn.ispring.lan" url="http://shadrin-learn.ispring.lan">
+        <fileTransfer host="shadrin-learn.ispring.lan" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
