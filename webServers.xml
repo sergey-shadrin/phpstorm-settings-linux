@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3106be71-2cdd-4d74-a55b-c93785d29591" name="shadrin-learn.ispring.lan" url="http://shadrin-learn.ispring.lan">
-        <fileTransfer host="10.10.31.21" port="22" rootFolder="/home/sergey/test" accessType="SFTP">
+        <fileTransfer host="10.10.31.21" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
