@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e59b24d0-3c01-4700-82cf-6792fd1d712d" name="shadrin-learn.ispring.lan" url="http://shadrin-learn.ispring.lan">
+        <fileTransfer port="0" mountedRoot="C:\test" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
