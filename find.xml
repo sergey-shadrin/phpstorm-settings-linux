@@ -7,8 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
@@ -25,19 +25,20 @@
       <mask>*.php, *.sql</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.scss</mask>
       <mask>*.w</mask>
       <mask>*.wsd</mask>
       <mask>*.ws</mask>
       <mask>*.wsdl</mask>
-      <mask>*.php</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
