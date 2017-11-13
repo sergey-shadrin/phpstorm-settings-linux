@@ -9,14 +9,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\server\php\php.exe" id="cd81a4c2-889f-4b8a-8946-a89a405580d5" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://sergey@shadrin-learn.ispring.lan:22/usr/bin/php" id="6b4608cc-162d-4011-91c9-b4d86fc6ce4c" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="shadrin-learn.ispring.lan" PORT="22" USERNAME="sergey" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/sergey/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
