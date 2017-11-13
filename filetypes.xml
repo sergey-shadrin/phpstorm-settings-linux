@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="user" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
