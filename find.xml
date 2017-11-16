@@ -17,13 +17,15 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
+      <mask>*.php</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
