@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php, *.yml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -34,6 +33,12 @@
       <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php, *</mask>
+      <mask>*.php, *.</mask>
+      <mask>*.php, *.y</mask>
+      <mask>*.php, *.ym</mask>
+      <mask>*.php, *.yml</mask>
     </recentFileMasks>
   </component>
 </application>
