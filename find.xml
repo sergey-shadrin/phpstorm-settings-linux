@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.оы</mask>
@@ -32,12 +33,12 @@
       <mask>*.PH</mask>
       <mask>*.P</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.hp</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
