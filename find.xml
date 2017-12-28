@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss, *.yml" />
     <recentFileMasks>
-      <mask>*.yml</mask>
       <mask>*.php, *.yml</mask>
       <mask>*.php, *.ym</mask>
       <mask>*.php, *.y</mask>
@@ -29,6 +28,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scss,</mask>
       <mask>*.scss,</mask>
       <mask>*.scss, *</mask>
       <mask>*.scss, *.</mask>
