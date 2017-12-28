@@ -7,14 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.scss, *.yml" />
     <recentFileMasks>
-      <mask>*.оы</mask>
-      <mask>*.о</mask>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.php, *.yml</mask>
       <mask>*.php, *.ym</mask>
@@ -39,6 +33,12 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scss,</mask>
+      <mask>*.scss, *</mask>
+      <mask>*.scss, *.</mask>
+      <mask>*.scss, *.y</mask>
+      <mask>*.scss, *.ym</mask>
+      <mask>*.scss, *.yml</mask>
     </recentFileMasks>
   </component>
 </application>
