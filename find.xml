@@ -7,16 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php, *.scss" />
     <recentFileMasks>
-      <mask>*.php, *.</mask>
-      <mask>*.php, *</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,</mask>
-      <mask>*.PHP</mask>
-      <mask>*.PH</mask>
-      <mask>*.P</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
       <mask>*.jsc</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
@@ -38,6 +30,15 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,</mask>
+      <mask>*.php, *</mask>
+      <mask>*.php, *</mask>
+      <mask>*.php, *.</mask>
+      <mask>*.php, *.s</mask>
+      <mask>*.php, *.sc</mask>
+      <mask>*.php, *.scs</mask>
+      <mask>*.php, *.scss</mask>
     </recentFileMasks>
   </component>
 </application>
