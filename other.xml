@@ -1,0 +1,22 @@
+<application>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://youtrack.cpslabs.net">
+      <commitMessageFormat>#{id}</commitMessageFormat>
+      <option name="defaultSearch" value="#{My sprint tasks} #Unresolved -{Code Review}" />
+      <password>dfe5dffbdfdfdf9edfcfdfc3dfe6dfcf</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>sergey.shadrin</username>
+    </YouTrack>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://10.10.31.106:8111&amp;^%$#@sergey" />
+  </component>
+</application>
