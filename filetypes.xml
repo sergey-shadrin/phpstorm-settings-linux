@@ -1,7 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="www-data" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="user" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
