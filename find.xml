@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.scss, *</mask>
       <mask>*.scss, *.</mask>
@@ -26,7 +26,6 @@
       <mask>*.php, *.scss</mask>
       <mask>*.scsds</mask>
       <mask>*.scsd</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.yml</mask>
@@ -39,6 +38,7 @@
       <mask>*.</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
